@@ -100,6 +100,10 @@ Use $paper-hexo-deepread to create a draft only. Do not deploy.
 Use $paper-hexo-deepread to create, validate, deploy, and check the live site.
 ```
 
+## Model recommendation
+
+Use ChatGPT-family models for writing these posts. In current testing, Gemini-family models performed poorly on this workflow and are not recommended as the first choice.
+
 ## Validation scripts
 
 Summarize tags and categories from an existing Hexo blog:
@@ -230,6 +234,10 @@ Use $paper-hexo-deepread to create a draft only. Do not deploy.
 ```text
 Use $paper-hexo-deepread to create, validate, deploy, and check the live site.
 ```
+
+## 模型建议
+
+建议使用 ChatGPT 系列模型进行撰写。目前测试下来，Gemini 系列模型在这个工作流中的表现很糟糕，不建议作为首选。
 
 ## 校验脚本
 
